@@ -1,0 +1,18 @@
+PodCast - CodeTip
+
+Tema - A Sociedade do Servidor – Explorando frameworks e mercado backend
+
+“E aí, nerdada do bem! Tranquilidade? Aqui é o Silvio, trazendo mais um episódio legal pra você que quer dominar o backend sem complicação. Se prepara aí que hoje a gente vai mergulhar no universo dos servidores, frameworks e aquele olhar de mercado que todo iniciante precisa. Então, pega seu café, ajusta o fone e vem comigo!” 
+Wikipédia
+
+Curiosidade 1  – Node.js e seu Loop de Eventos
+Você sabia que o Node.js roda em uma única thread mas consegue atender milhares de conexões ao mesmo tempo? Isso acontece por causa do “event loop” – um laço de eventos que delega tarefas de I/O para o kernel do sistema operacional e só volta para o JavaScript quando tiver algo pronto pra processar. Essa arquitetura não bloqueia seu servidor em operações de leitura de arquivos ou consultas de banco, mantendo sua aplicação leve e responsiva 
+nodejs.org
+.
+
+Curiosidade 2 – ORM: O Mapeador Objeto-Relacional
+Outro aliado forte no backend é o ORM, sigla pra Object-Relational Mapping. Imagina que você escreve seu código em classes e objetos e o ORM converte isso em tabelas e colunas no banco de dados – e vice‑versa! Ele simplifica CRUD, migrações e até cache de consultas, permitindo que você se concentre na lógica da sua aplicação, não na sintaxe SQL 
+DevMedia
+.
+
+“E é isso, galera! Espero que essas dicas tenham clareado um pouco o funcionamento do Node.js e a mágica dos ORMs. Se curtiu, compartilha com a comunidade nerd e fica de olho que semana que vem tem mais! Eu sou o Silvio, e esse foi o CodeTip dessa semana. Até a próxima!”
