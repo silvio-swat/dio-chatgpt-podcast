@@ -35,7 +35,7 @@ Foi utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 />
 </p>
 
-Neste exemplo criamos breve podcast de dicas sobre backend chamado "A Sociedade do Servidor – Explorando frameworks e mercado backend", ouça o podcast fazendo o download abaixo:
+Neste exemplo criamos um breve podcast de dicas sobre backend chamado "A Sociedade do Servidor – Explorando frameworks e mercado backend", ouça o podcast fazendo o download abaixo:
 
 [Ouça aqui](https://github.com/silvio-swat/dio-chatgpt-podcast/blob/master/Output/ElevenLabs_PodCast_-_CodeTip.txt%20-%20Vers%C3%A3o%20Final.MP3)
 
